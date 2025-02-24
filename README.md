@@ -1,12 +1,9 @@
 # 🧩 Sudoku Solver
 
-<div align="left">
-  <img src="Images/SS-1.png" alt="Project Diagram" width="40%" />
-</div>
-
-<div align="right">
-  <img src="Images/SS-2.png" alt="Project Diagram" width="40%" />
-</div>
+<p align="center">
+  <img src="Images/SS-1.png" alt="Project Diagram" width="45%" />
+  <img src="Images/SS-2.png" alt="Project Diagram" width="45%" />
+</p>
 
 A lightning-fast, web-based Sudoku solver that can tackle puzzles of any difficulty in milliseconds. This project implements an optimized backtracking algorithm with constraint propagation to efficiently solve even the most challenging Sudoku puzzles.
 
